@@ -15,16 +15,16 @@ Here is the live link of the app- https://x.thunkable.com/copy/784f7a14cca05bde1
 
 # Flows
 ### Main Screen
-<img src="https://user-images.githubusercontent.com/118586523/202840205-74b28dc6-a194-4642-a522-aaca65aab1de.jpeg" alt="Main screen" width="600" height="700"/>
+<img src="https://user-images.githubusercontent.com/118586523/202840205-74b28dc6-a194-4642-a522-aaca65aab1de.jpeg" alt="Main screen" width="400" height="700"/>
 
 ### Choose city
-<img src="https://user-images.githubusercontent.com/118586523/202840223-4a053222-0287-42ef-8555-6a7c285da344.jpeg" alt="Choose city" width="600" height="700"/>
+<img src="https://user-images.githubusercontent.com/118586523/202840223-4a053222-0287-42ef-8555-6a7c285da344.jpeg" alt="Choose city" width="400" height="700"/>
 
 ### Locations
-<img src="https://user-images.githubusercontent.com/118586523/202840242-97a04f22-85d1-4d1f-b8ec-8de060fa5bb2.jpeg" alt="Locations" width="600" height="700"/>
+<img src="https://user-images.githubusercontent.com/118586523/202840242-97a04f22-85d1-4d1f-b8ec-8de060fa5bb2.jpeg" alt="Locations" width="400" height="700"/>
 
 ### Points system
-<img src="https://user-images.githubusercontent.com/118586523/202840245-71186c01-aa45-4271-aa4d-35acf3260a18.jpeg" alt="Points system" width="600" height="700"/>
+<img src="https://user-images.githubusercontent.com/118586523/202840245-71186c01-aa45-4271-aa4d-35acf3260a18.jpeg" alt="Points system" width="400" height="700"/>
 
 ### Pick-up and drop off service
-<img src="https://user-images.githubusercontent.com/118586523/202840251-2626cd97-c0f5-4040-a088-7aeb5c5fc8bc.jpeg" alt="Pick-up and drop off service" width="600" height="700"/>
+<img src="https://user-images.githubusercontent.com/118586523/202840251-2626cd97-c0f5-4040-a088-7aeb5c5fc8bc.jpeg" alt="Pick-up and drop off service" width="400" height="700"/>
