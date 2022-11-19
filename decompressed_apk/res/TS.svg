@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>viewIconImage</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="viewIconImage" fill="#948FFE">
+            <path d="M4.22222222,2 C3,2 2,3 2,4.22222222 L2,19.7777778 C2,21 3,22 4.22222222,22 L19.7777778,22 C21,22 22,21 22,19.7777778 L22,4.22222222 C22,3 21,2 19.7777778,2 L4.22222222,2 Z M4,20 L4,4 L20,4 L20,20 L4,20 Z M14.0074463,11 L11.0067749,15 L9.03094482,12.9836426 L6.00640869,17.0026245 L18.0161133,17.0026245 L14.0074463,11 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
